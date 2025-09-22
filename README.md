@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I´m Mikey</h1>
 
+![NunchuckCoder](https://github.com/NunchuckCoder/NunchuckCoder/blob/main/NunchuckCoder.png)
 
 I’m a developer passionate about turning ideas into practical solutions.</br>
 With experience in **automation, bots, and system integration** — mostly with Python — I love building tools that simplify processes, save time, and make everyday work smoother.</br>
