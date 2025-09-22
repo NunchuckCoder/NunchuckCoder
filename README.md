@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I´m Mikey aka NunchuckCoder</h1>
 
 ![NunchuckCoder](https://github.com/NunchuckCoder/NunchuckCoder/blob/main/NunchuckCoder.png)
+<p align="center">  <img src="https://vbr.nathanchung.dev/badge?page_id=ocipriano&style=for-the-badge&logo=github" /></p>
 
 I’m a developer passionate about turning ideas into practical solutions.</br>
 With experience in **automation, bots, and system integration** — mostly with Python — I love building tools that simplify processes, save time, and make everyday work smoother.</br>
