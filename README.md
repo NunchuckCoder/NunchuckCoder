@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I´m Cipriano</h1>
+<h1 align="center">Hi 👋, I´m Cipriano</h1>
 
 
 I’m a developer passionate about turning ideas into practical solutions.</br>
@@ -6,16 +6,15 @@ With experience in **automation, bots, and system integration** — mostly with 
 Whether in professional projects or personal experiments, I’m driven by the challenge of solving real problems through software.
 
 
-<h3>What Motivates Me</h3>
+<h2>What Motivates Me ✨</h2>
 
 I’m naturally curious and quick to learn new technologies.
 I enjoy working on solutions that create real impact—whether by saving time on repetitive tasks or making collaboration between teams easier.
 
----
 
-<h3 align="center">💻 My Toolbox</h3>
+<h2>My Toolbox 💻</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -38,10 +37,9 @@ I enjoy working on solutions that create real impact—whether by saving time on
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
----
+<h2>My Social 📱</h2>
 
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/ocipriano"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:code.wish815@passmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
