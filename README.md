@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Cipriano
 
-![Estatisticas]([https://github-readme-stats.vercel.app/api/top-langs/?username=ocipriano&stats_format=bytes&locale=pt-pt&theme=vue-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ocipriano&stats_format=bytes&theme=vue-dark&layout=compact))
+![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=ocipriano&stats_format=bytes&theme=vue-dark&layout=compact)
 
 Sou desenvolvedor com experiência em **automação, bots e integração de sistemas**, principalmente com Python.  
 Tenho gosto em resolver problemas práticos através de software e criar ferramentas que simplificam processos, tanto em contexto profissional como em projectos pessoais.
