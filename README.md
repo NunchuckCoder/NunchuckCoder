@@ -31,7 +31,7 @@ Gosto de trabalhar em soluções que tenham impacto real, seja a poupar tempo em
 ## 📫 Contacto
 
 - GitHub: [github.com/ocipriano](https://github.com/ocipriano)  
-- E-mail: *[code.wish815@passmail.com]*    
+- E-mail: *code.wish815@passmail.com*    
 
 ---
 
