@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I´m Mikey</h1>
+<h1 align="center">Hi 👋, I´m Mikey aka NunchuckCoder</h1>
 
 ![NunchuckCoder](https://github.com/NunchuckCoder/NunchuckCoder/blob/main/NunchuckCoder.png)
 
