@@ -1,4 +1,4 @@
-# 👋 Olá, sou o OCipriano
+# 👋 Olá, sou o Cipriano
 
 ![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=ocipriano&stats_format=bytes&locale=pt-pt&theme=vue-dark)
 
