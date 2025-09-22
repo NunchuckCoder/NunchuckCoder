@@ -40,7 +40,7 @@ I enjoy working on solutions that create real impact—whether by saving time on
 <h2>My Social 📱</h2>
 
 <p align="left">
-  <a href="https://github.com/ocipriano"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NunchuckCoder"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:code.wish815@passmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
