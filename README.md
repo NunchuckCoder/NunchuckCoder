@@ -1,52 +1,170 @@
-<h1 align="center">Hi 👋, I´m Mikey aka NunchuckCoder</h1>
+<h1 align="center">Hi 👋, I'm Osvaldo Cipriano (NunchuckCoder)</h1>
 
-![NunchuckCoder](https://github.com/NunchuckCoder/NunchuckCoder/blob/main/ghnunchuckcoder.png)
-<p align="center">  <img src="https://vbr.nathanchung.dev/badge?page_id=ocipriano&style=for-the-badge&logo=github" /></p>
+<p align="center">
+  <strong>Python Developer • Linux Enthusiast • Kubernetes Learner • Homelab Builder</strong>
+</p>
 
-I’m a developer passionate about turning ideas into practical solutions.</br>
-With experience in **automation, bots, and system integration** — mostly with Python — I love building tools that simplify processes, save time, and make everyday work smoother.</br>
-Whether in professional projects or personal experiments, I’m driven by the challenge of solving real problems through software.
+<p align="center">
+Building automation, infrastructure and web applications.
+</p>
 
+<p align="center">
+  <img src="https://github.com/NunchuckCoder/NunchuckCoder/blob/main/ghnunchuckcoder.png" alt="NunchuckCoder" />
+</p>
 
-<h2>What Motivates Me ✨</h2>
+<p align="center">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=ocipriano&style=for-the-badge&logo=github" />
+</p>
 
-I’m naturally curious and quick to learn new technologies.
-I enjoy working on solutions that create real impact—whether by saving time on repetitive tasks or making collaboration between teams easier.
+---
 
+## 🚀 About Me
 
-<h2>My Toolbox 💻</h2>
+I'm passionate about building practical solutions through software, automation and infrastructure.
+
+My current focus is on developing modern web applications, automating processes with Python and managing self-hosted infrastructure using Linux, Docker, Kubernetes and Proxmox.
+
+I enjoy learning new technologies, experimenting with new ideas and transforming them into useful real-world projects.
+
+### Current Areas of Focus
+
+- Python Development
+- React & Next.js
+- Linux Administration
+- Docker & Kubernetes (k3s)
+- Proxmox Virtualization
+- Infrastructure Automation
+- Git & GitHub
+- Cloudflare Services
+- Self-Hosted Applications
+- DevOps Fundamentals
+
+---
+
+## 🏗️ Featured Projects
+
+### 📡 Proximity
+
+Radio amateur repeater discovery platform designed to help operators find nearby repeaters and share community-driven information.
+
+🌐 https://proximity.osvaldocipriano.dev
+
+---
+
+### 🖥️ Homelab Infrastructure
+
+Self-hosted infrastructure running on:
+
+- Proxmox VE
+- Docker
+- Kubernetes (k3s)
+- Cloudflare Tunnel
+- Monitoring & Automation
+- Backup & Recovery Services
+
+---
+
+### 🤖 Automation Bots
+
+Python-based automation projects for:
+
+- Discord
+- Telegram
+- IRC
+- Monitoring
+- Notifications
+- Community Management
+
+---
+
+### 🌍 Personal Portfolio
+
+Portfolio showcasing projects, infrastructure and technical experiments.
+
+🌐 https://osvaldocipriano.dev
+
+---
+
+## 💻 Tech Stack
+
+### Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/LISP-990000?logo=commonlisp&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-FF1111?logo=autocad&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Infrastructure & DevOps
+
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-<h2>My Social 📱</h2>
+### Platforms & Tools
 
 <p align="left">
-  <a href="https://github.com/NunchuckCoder"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:code.wish815@passmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
+---
 
+## 📈 Currently Learning
+
+- Kubernetes (k3s)
+- Linux Administration
+- DevOps Practices
+- Infrastructure Automation
+- Cloud Native Technologies
+- Next.js & TypeScript
+
+---
+
+## 📡 Interests
+
+- Linux & Open Source
+- Homelab Infrastructure
+- DevOps & Automation
+- Amateur Radio
+- Self Hosting
+- Networking
+- Home Automation
+
+---
+
+## 🌐 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-osvaldocipriano.dev-blue?style=for-the-badge)](https://osvaldocipriano.dev)
+[![Proximity](https://img.shields.io/badge/Proximity-Live-success?style=for-the-badge)](https://proximity.osvaldocipriano.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osvaldo_Cipriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osvaldocipriano)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osvaldo.cipriano@gmail.com)
+
+---
+
+<p align="center">
+Always learning. Always building. Always improving.
+</p>
