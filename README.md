@@ -9,7 +9,7 @@ Building automation, infrastructure and web applications.
 </p>
 
 <p align="center">
-  <img src="https://github.com/NunchuckCoder/NunchuckCoder/blob/main/ghnunchuckcoder.png" alt="NunchuckCoder" />
+  <img src="https://github.com/NunchuckCoder/NunchuckCoder/blob/main/header.png" alt="NunchuckCoder" />
 </p>
 
 <p align="center">
